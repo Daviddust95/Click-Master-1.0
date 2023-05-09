@@ -1,2 +1,6 @@
 # Click-Master
-Auto click que funciona em Python, usando o monkeyrunner, que  é uma ferramenta que permite a automação de testes em Android através da simulação de toques e eventos na tela, usando o Python.
+Auto click que funciona em Python, usando a biblioteca pyautogui, que  é uma biblioteca que permite que você controle o mouse e o teclado do seu computador através de código Python.
+
+Para instalar a biblioteca pyautogui, abra o terminal e digite:
+
+pip install pyautogui
